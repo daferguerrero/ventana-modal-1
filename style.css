@@ -1,0 +1,10 @@
+body{
+  padding: 50px;
+  font-family: sans-serif;
+}
+
+button{
+  background-color: #0081DB;
+  padding: 5px 15px;
+  color: #fff;
+}
